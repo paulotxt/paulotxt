@@ -50,9 +50,9 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: center; padding: 20px;">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555195142/DD9EB4372C99C55596029B7B7801A4AB4D25C5F3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 1" />
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555250137/1B22700299ACF6F32E1D652E459CC5C17D3D65DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 2" style="margin-left: auto;" />
+<!-- Imagem alinhada à direita -->
+<div>
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555250137/1B22700299ACF6F32E1D652E459CC5C17D3D65DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 2" style="float: right; margin: 10px;" />
 </div>
 
 ###
