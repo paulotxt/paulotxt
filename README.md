@@ -50,16 +50,10 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555195142/DD9EB4372C99C55596029B7B7801A4AB4D25C5F3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555250137/1B22700299ACF6F32E1D652E459CC5C17D3D65DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<!-- Alinhando as imagens lado a lado -->
+<div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555195142/DD9EB4372C99C55596029B7B7801A4AB4D25C5F3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 1" />
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555250137/1B22700299ACF6F32E1D652E459CC5C17D3D65DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 2" />
 </div>
 
 ###
