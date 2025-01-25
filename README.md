@@ -48,11 +48,3 @@
 
 ###
 
-<br clear="both">
-
-<!-- Imagem alinhada à direita -->
-<div>
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2304220644555250137/1B22700299ACF6F32E1D652E459CC5C17D3D65DB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem 2" style="float: right; margin: 10px;" />
-</div>
-
-###
